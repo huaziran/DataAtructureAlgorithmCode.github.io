@@ -1,4 +1,5 @@
 # DatabaseAndAlgorithm（自己学习数据结构和算法）
+# DataAtructureAlgorithmCode.github.io
 ## 数组
     数组基本操作
     稀疏数组
@@ -52,7 +53,7 @@
     基数排序的实现（理解较难）
     速度测试（目前最快）
     用到二维数组。
-###堆排序
+### 堆排序
     实现了大顶堆排序（为升序），扩展小顶堆（降序）
     运用了二叉树
     代实现（不是很好理解）
@@ -96,5 +97,3 @@
     删除功能未实现
 ### AVL树（坐旋转）
     代码实现
-
-# DataAtructureAlgorithmCode.github.io
