@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5faad2e2-b6fb-4107-9b81-a5b449780e08" name="Default Changelist" comment="图">
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/huaziran/floyd/FloyedAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5faad2e2-b6fb-4107-9b81-a5b449780e08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Algorithm/src/com/huaziran/floyd/FloyedAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1703">
-              <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+            <state relative-caret-position="140">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -182,7 +180,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629281572173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629281818571" />
     <property name="last_opened_file_path" value="D:/program files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -331,7 +329,7 @@
       <workItem from="1629089399666" duration="741000" />
       <workItem from="1629090171755" duration="615000" />
       <workItem from="1629091407154" duration="8278000" />
-      <workItem from="1629274986460" duration="4010000" />
+      <workItem from="1629274986460" duration="4254000" />
     </task>
     <task id="LOCAL-00001" summary="稀疏数组完整">
       <created>1623559539092</created>
@@ -571,17 +569,24 @@
       <option name="project" value="LOCAL" />
       <updated>1629089139814</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="算法">
+      <created>1629281602917</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1629281602918</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244624000" />
+    <option name="totallyTimeSpent" value="244868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2611336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2611336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -590,7 +595,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.05946792" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.05946792" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.112676054" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -658,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="单链表和双链表的实现" />
     <MESSAGE value="单链表的实现" />
     <MESSAGE value="加入环形链表和数组实现栈" />
     <MESSAGE value="用栈完成一个表达式的计算" />
@@ -683,7 +687,8 @@
     <MESSAGE value="AVL树（坐旋转）" />
     <MESSAGE value="AVL树" />
     <MESSAGE value="图" />
-    <option name="LAST_COMMIT_MESSAGE" value="图" />
+    <MESSAGE value="算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1096,8 +1101,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Algorithm/src/com/huaziran/floyd/FloyedAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1703">
-          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        <state relative-caret-position="140">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
